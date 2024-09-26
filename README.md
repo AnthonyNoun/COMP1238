@@ -31,3 +31,5 @@ Shortcuts I would like to start using:
 - F5 (refresh)
 - Win+Print screen(screen shot) 
 - Ctrl-W (close tab)
+
+ 
