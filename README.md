@@ -24,4 +24,8 @@
 Shortcuts I frequently use: 
 - Ctrl-C (copy)
 - Ctrl-V (paste)
-- Ctrl-Z (undo)
+- Ctrl-F (find)
+Shortcuts I would like to start using: 
+- F5 (refresh)
+- Win+Print screen(screen shot) 
+- Ctrl-W (close tab)
