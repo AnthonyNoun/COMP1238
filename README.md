@@ -15,6 +15,7 @@
 ## Links
 - [Georgebrown Bright space](https://www.georgebrown.ca/teaching-and-learning-exchange/educational-technology/d2l-brightspace/faculty/brightspace-access)
 - [RedFlagDeals](https://www.redflagdeals.com/)
+- [Cli commands](https://github.com/AnthonyNoun/COMP1238/blob/main/lab/cli.md)
 
 ### Experiments 
 - :fire:
